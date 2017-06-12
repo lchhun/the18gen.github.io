@@ -26,6 +26,12 @@
   </url>
   
   <url>
+    <loc>https://the18gen.github.io/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://the18gen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -38,12 +44,6 @@
   
   <url>
     <loc>https://the18gen.github.io/rnotebooks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://the18gen.github.io/</loc>
-    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
